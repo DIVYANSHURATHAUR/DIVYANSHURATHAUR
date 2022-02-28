@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DIVYANSHURATHAUR
+- 👋 Hi, I’m @DIVYANSHU RATHAUR
 - 👀 I’m interested in ... coding
 - 🌱 I’m currently learning ...c ,datastructures and python
 - 💞️ I’m looking to collaborate on ...
